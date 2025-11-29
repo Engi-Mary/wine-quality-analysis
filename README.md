@@ -17,7 +17,7 @@ Identify the key drivers of wine quality (quality ≥ 7) and demonstrate a clear
 - **notebooks/** – Jupyter Notebooks for EDA, modeling, and evaluation
 - **src/** – Python modules for preprocessing, training, and evaluation
 - **reports/** – Figures and slides used in the final presentation
-- **data/** – (Dataset link, not included due to license)
+- **data/** – winequality-red.csv  → https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## 📊 Key Insights
 
