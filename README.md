@@ -41,6 +41,3 @@ Challenge: low recall on minority class (high-quality wines)
 
 ## 👩‍💻 About Me
 I'm Maryam. I studied my bachelor in computer engineering with software specialization and my masters in computer science with AI and data science specialization. I'd like to work on practical topics and use my know-how and skills in data science and storytelling to fill the gap between science and society.
-## 👩‍💻 About Mes
-
-I’m Maryam, a mid-level data scientist with a background in AI & computer science.
