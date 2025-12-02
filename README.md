@@ -1,47 +1,51 @@
-##🍷 Wine Quality Analysis – Data Science Project
+🍷 Wine Quality Analysis – Data Science Project
+
 This project explores what makes a red wine “high quality” based on its chemical properties.
 The analysis was created for a food retail company interested in improving its product selection.
 
-All work is contained in one exploratory notebook and a short slide deck.
+All work is contained in a single exploratory notebook and a short slide deck.
 
-##🔍 Key Findings
+🔍 Key Findings
+
 Higher alcohol content → higher quality
 
-Sulfates also contribute positively
+Sulfates contribute positively to quality
 
-Volatile acidity has a negative effect
+Volatile acidity has a clear negative effect
 
 Only ~12% of wines in the dataset are high quality
 
-Random Forest model achieved 89% accuracy, with lower recall for the minority class (high-quality wines)
+A Random Forest model reached 89% accuracy, with lower recall for the rare high-quality wines (class imbalance)
 
-These patterns are clearly visible in the visualizations in the notebook.
+These patterns are clearly visible in the visualizations inside the notebook.
 
-##📊 What’s Inside This Repository 
-Wine_Analysis.ipynb — full analysis: EDA, correlations, Random Forest, evaluation
+📊 Repository Contents
 
-slides.pdf — short business presentation
+Wein_Analyse.ipynb — full analysis: EDA, correlations, Random Forest model, evaluation
+
+slides.pdf — short business-oriented presentation
 
 figures/ — exported plots from the notebook
 
-##📁 Dataset
-Public Wine Quality dataset (UCI ML Repository):
+📁 Dataset
+
+This project uses the public Wine Quality dataset (red wine only):
 🔗 https://archive.ics.uci.edu/dataset/186/wine+quality
 
+(The raw data is not included in this repository due to licensing.)
 
-(Only the red wine data is used.)
+▶️ How to Run
 
-##▶️ How to Run 
-Open the notebook in Google Colab or Jupyter
+Open the notebook in Google Colab or Jupyter Notebook
 
-Install requirements:
+Install dependencies:
 
 pip install pandas matplotlib seaborn scikit-learn
 
 
 Download the dataset from the link above
 
-Run all cells
+Run all cells in the notebook
 
 
 ## 👩‍💻 About Me
