@@ -4,7 +4,7 @@ The analysis was created for a food retail company interested in improving its p
 
 All work is contained in a single exploratory notebook and a short slide deck.
 
-## 📊 Key Insights
+## 🔍 Key Insights
 
 Higher alcohol content → higher quality
 
@@ -18,7 +18,7 @@ A Random Forest model reached 89% accuracy, with lower recall for the rare high-
 
 These patterns are clearly visible in the visualizations inside the notebook.
 
-## 📊 Project Structure
+## 📂 Project Structure
 
 notebook/ — contains the full analysis notebook (Wein_Analyse.ipynb)
 
