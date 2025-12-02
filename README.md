@@ -62,4 +62,4 @@ I'm Maryam - a data scientist. I studied my bachelor in computer engineering wit
 
 Contact me via linkedin: https://www.linkedin.com/in/maryam-arabshahi-54428453/
 
-Email: arabshahi.ma@gmail.com
+Or Email: arabshahi.ma@gmail.com
