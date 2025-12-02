@@ -41,8 +41,7 @@ Open the notebook in Google Colab or Jupyter Notebook
 
 Install dependencies:
 
-pip install pandas matplotlib seaborn scikit-learn
-
+pip install -r requirements.txt
 
 Download the dataset from the link above
 
