@@ -1,12 +1,10 @@
-🍷 Wine Quality Analysis – Data Science Project
-
+##🍷 Wine Quality Analysis – Data Science Project
 This project explores what makes a red wine “high quality” based on its chemical properties.
 The analysis was created for a food retail company interested in improving its product selection.
 
 All work is contained in one exploratory notebook and a short slide deck.
 
-🔍 Key Findings
-
+##🔍 Key Findings
 Higher alcohol content → higher quality
 
 Sulfates also contribute positively
@@ -19,24 +17,21 @@ Random Forest model achieved 89% accuracy, with lower recall for the minority cl
 
 These patterns are clearly visible in the visualizations in the notebook.
 
-📊 What’s Inside This Repository
-
+##📊 What’s Inside This Repository 
 Wine_Analysis.ipynb — full analysis: EDA, correlations, Random Forest, evaluation
 
 slides.pdf — short business presentation
 
 figures/ — exported plots from the notebook
 
-📁 Dataset
-
+##📁 Dataset
 Public Wine Quality dataset (UCI ML Repository):
 🔗 https://archive.ics.uci.edu/dataset/186/wine+quality
 
 
 (Only the red wine data is used.)
 
-▶️ How to Run
-
+##▶️ How to Run 
 Open the notebook in Google Colab or Jupyter
 
 Install requirements:
