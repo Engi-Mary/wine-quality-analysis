@@ -61,4 +61,5 @@ If extended, this project could include:
 I'm Maryam - a data scientist. I studied my bachelor in computer engineering with software specialization and my masters in computer science with AI and data science specialization. I'd like to work on practical topics and use my know-how and skills in data science and storytelling to fill the gap between science and society.
 
 Contact me via linkedin: https://www.linkedin.com/in/maryam-arabshahi-54428453/
+
 Email: arabshahi.ma@gmail.com
