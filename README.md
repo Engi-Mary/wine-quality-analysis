@@ -20,11 +20,13 @@ These patterns are clearly visible in the visualizations inside the notebook.
 
 ## 📊 Project Structure
 
-Wein_Analyse.ipynb — full analysis: EDA, correlations, Random Forest model, evaluation
+notebook/ — contains the full analysis notebook (Wein_Analyse.ipynb)
 
-slides.pdf — short business-oriented presentation
+reports/ — includes the slide deck and exported figures
 
-figures/ — exported plots from the notebook
+requirements.txt — minimal dependencies to run the notebook
+
+README.md — project documentation
 
 ## 📂 Dataset
 
@@ -57,6 +59,7 @@ If extended, this project could include:
 
 
 ## 👩‍💻 About Me
-I'm Maryam. I studied my bachelor in computer engineering with software specialization and my masters in computer science with AI and data science specialization. I'd like to work on practical topics and use my know-how and skills in data science and storytelling to fill the gap between science and society.
+I'm Maryam - a data scientist. I studied my bachelor in computer engineering with software specialization and my masters in computer science with AI and data science specialization. I'd like to work on practical topics and use my know-how and skills in data science and storytelling to fill the gap between science and society.
+
 Contact me via linkedin: https://www.linkedin.com/in/maryam-arabshahi-54428453/
 Email: arabshahi.ma@gmail.com
