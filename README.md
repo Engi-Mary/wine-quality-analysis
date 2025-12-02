@@ -1,43 +1,55 @@
-# Wine Quality Analysis – Data Science Project
+🍷 Wine Quality Analysis – Data Science Project
 
-This project explores what makes a red wine “high quality” based on its physicochemical properties.
-It is a hands-on data science project focusing on:
+This project explores what makes a red wine “high quality” based on its chemical properties.
+The analysis was created for a food retail company interested in improving its product selection.
 
-- Exploratory Data Analysis (EDA)
-- Correlation & Feature Importance
-- Machine Learning Classification (Random Forest)
-- Storytelling-driven communication of insights
+All work is contained in one exploratory notebook and a short slide deck.
 
-## 🎯 Goal
+🔍 Key Findings
 
-Identify the key drivers of wine quality (quality ≥ 7) and demonstrate a clear, communicative analysis workflow.
+Higher alcohol content → higher quality
 
-## 📂 Project Structure
+Sulfates also contribute positively
 
-- **notebooks/** – Jupyter Notebooks for EDA, modeling, and evaluation
-- **src/** – Python modules for preprocessing, training, and evaluation
-- **reports/** – Figures and slides used in the final presentation
-- **data/** – winequality-red.csv  → https://archive.ics.uci.edu/dataset/186/wine+quality
+Volatile acidity has a negative effect
 
-## 📊 Key Insights
+Only ~12% of wines in the dataset are high quality
 
-- Alcohol is the strongest predictor of wine quality  
-- Sulfates have a positive impact  
-- Volatile acidity correlates negatively  
-- The dataset is imbalanced (only ~12% high-quality wines)
+Random Forest model achieved 89% accuracy, with lower recall for the minority class (high-quality wines)
 
-## 🤖 Model
+These patterns are clearly visible in the visualizations in the notebook.
 
-Model: Random Forest Classifier  
-Accuracy: 89%  
-Challenge: low recall on minority class (high-quality wines)
+📊 What’s Inside This Repository
 
-## 🚀 Next Steps
+Wine_Analysis.ipynb — full analysis: EDA, correlations, Random Forest, evaluation
 
-- Try oversampling (SMOTE)
-- Experiment with gradient boosting models
-- Add a lightweight API prototype (future learning goal)
+slides.pdf — short business presentation
+
+figures/ — exported plots from the notebook
+
+📁 Dataset
+
+Public Wine Quality dataset (UCI ML Repository):
+🔗 https://archive.ics.uci.edu/dataset/186/wine+quality
+
+
+(Only the red wine data is used.)
+
+▶️ How to Run
+
+Open the notebook in Google Colab or Jupyter
+
+Install requirements:
+
+pip install pandas matplotlib seaborn scikit-learn
+
+
+Download the dataset from the link above
+
+Run all cells
 
 
 ## 👩‍💻 About Me
 I'm Maryam. I studied my bachelor in computer engineering with software specialization and my masters in computer science with AI and data science specialization. I'd like to work on practical topics and use my know-how and skills in data science and storytelling to fill the gap between science and society.
+Contact me via linkedin: https://www.linkedin.com/in/maryam-arabshahi-54428453/
+Email: arabshahi.ma@gmail.com
