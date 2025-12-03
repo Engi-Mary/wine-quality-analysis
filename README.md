@@ -37,7 +37,7 @@ Volatile acidity has a clear negative effect
 
 Only ~12% of wines in the dataset are high quality
 
-A Random Forest model reached 89% accuracy, with lower recall for the rare high-quality wines (class imbalance)
+A Random Forest model reached 91% accuracy, with lower recall for the rare high-quality wines (class imbalance)
 
 These patterns are clearly visible in the visualizations inside the notebook.
 
@@ -45,7 +45,7 @@ These patterns are clearly visible in the visualizations inside the notebook.
 
 notebook/ — contains the full analysis notebook (Wein_Analyse.ipynb)
 
-reports/ — includes the slide deck and exported figures
+figures/ — includes the slide deck and exported figures
 
 requirements.txt — minimal dependencies to run the notebook
 
