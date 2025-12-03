@@ -1,6 +1,6 @@
 # 🍷 Wine Quality Analysis – Data Science Project
 This project explores what makes a red wine “high quality” based on its chemical properties.
-The analysis was created for a food retail company interested in improving its product selection.
+The analysis was created for a food retail company in Germany interested in improving its product selection.
 
 All work is contained in a single exploratory notebook and a short slide deck.
 
