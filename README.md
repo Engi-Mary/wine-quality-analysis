@@ -43,9 +43,9 @@ These patterns are clearly visible in the visualizations inside the notebook.
 
 ## 📂 Project Structure
 
-notebook/ — contains the full analysis notebook (Wein_Analyse.ipynb)
+notebook/ — contains the full analysis notebook (Wine_Analysis.ipynb)
 
-figures/ — includes the slide deck and exported figures
+figures/ — includes the visualized figures
 
 requirements.txt — minimal dependencies to run the notebook
 
