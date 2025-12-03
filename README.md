@@ -2,7 +2,30 @@
 This project explores what makes a red wine “high quality” based on its chemical properties.
 The analysis was created for a food retail company in Germany interested in improving its product selection.
 
-All work is contained in a single exploratory notebook and a short slide deck.
+The entire work is contained in a single exploratory notebook, supported by visualizations.
+
+## ⭐ Project Overview
+
+How do experts decide that one wine is “good” and another is “just okay”?
+Instead of relying on taste alone, this project uses data to understand which factors influence wine quality.
+
+The dataset contains nearly 1,600 red wines, each described by chemical features such as acidity, sulphates, and alcohol content.
+The goal was to identify what separates high-quality wines from the rest.
+
+This project demonstrates a complete data science workflow:
+
+Data understanding
+
+Exploratory Data Analysis (EDA)
+
+Correlation analysis
+
+Feature selection
+
+Modeling with a Random Forest classifier
+
+Evaluation and interpretation
+
 
 ## 🔍 Key Insights
 
